@@ -25,7 +25,9 @@ SECRET_KEY = '@o84i2i%z8tsj%#mhf%_s+an6w%l-r3sx=10jt&aul%j84@zy%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+'wangerine.pythonanywhere.com'
+]
 
 
 # Application definition
